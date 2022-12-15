@@ -1,10 +1,4 @@
 import pandas 
-
-print('hello world!')
-x = 3
-y = 4
-sum = x + y
-
 #milestone 1
 #%%
 print('This print statement was created in Python')
